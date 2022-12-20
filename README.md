@@ -5,6 +5,7 @@ Basic Info
 -----------
 
 **How to run**
+
 Run:
 python REAStoROOTconverter.py -d <directory_with_corsika_files>
 
